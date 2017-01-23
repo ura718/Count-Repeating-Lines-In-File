@@ -4,7 +4,6 @@ Use the msg log file and count up the lines per minutes.
 Basically identify how many lines fall into the same minute and print it out  
   
 e.g:  
-  read log file example  
   hours:minutes:seconds  
   11:22:01  
   11:22:10  
